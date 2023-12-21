@@ -2,8 +2,12 @@
 name: Bug Report
 about: File a bug report
 title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
+labels: 
+  - bug
+  - triage
+projects: 
+  - octo-org/1
+  - octo-org/44
 assignees:
   - octocat
 body:
@@ -36,7 +40,7 @@ body:
       options:
         - "1.0.2 (Default)"
         - "1.0.3 (Edge)"
-      default: 0
+      default: "1.0.2 (Default)"
     validations:
       required: true
   - type: dropdown
@@ -64,3 +68,4 @@ body:
         - label: I agree to follow this project's Code of Conduct
           required: true
 ---
+
