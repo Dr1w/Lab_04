@@ -2,6 +2,15 @@
 name: Bug Report
 about: File Bug Report
 title: "[Bug]: "
+labels: bug
+assignees: ''
+
+---
+
+---
+name: Bug Report
+about: File Bug Report
+title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
@@ -65,5 +74,3 @@ body:
           required: true
           
 ---
-
-
