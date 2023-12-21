@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-description: File a bug report
+about: File Bug Report
 title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
